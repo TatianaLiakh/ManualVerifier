@@ -1,0 +1,11 @@
+<?xml version='1.0' standalone='yes' ?>
+<Constants_description>
+<CA>
+	<in>КОМ2АУ_</in>
+	<out>АУ2ГУИ_</out>
+</CA>
+<VOC>
+	<in>БУС2ВОУ_</in>
+	<out>ВОУ2ГУИ_</out>
+</VOC>
+</Constants_description>
